@@ -183,6 +183,6 @@ Fine-tuning used Transformers `5.16.1`. Post-hoc text-embedding analysis used Tr
 
 ## Author
 
-**Maisha Fahmida**  
-Project Representation Learning 
+**Maisha Fahmida**<br>  
+Project Representation Learning<br>
 Friedrich-Alexander-Universität Erlangen-Nürnberg
